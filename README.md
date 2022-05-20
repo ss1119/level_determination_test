@@ -9,7 +9,6 @@ https://console.firebase.google.com/u/0/project/level-determination-test/overvie
 ### 現在使ってるサービス
 
 - Hosting
-  - https://level-determination-test.web.app
 - Cloud Firesotre
 - Functions
   - Blazeプランが必要
