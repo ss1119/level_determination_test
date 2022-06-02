@@ -4,7 +4,7 @@
 
 デフォルトは以下のアカウントを利用
 
-https://console.firebase.google.com/u/0/project/level-determination-test/overview
+https://console.firebase.google.com/u/1/project/level-determination-test-f8c31/overview
 
 ### 現在使ってるサービス
 
